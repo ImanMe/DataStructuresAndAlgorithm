@@ -1,0 +1,11 @@
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\ArrayDemo\bin\Debug\netcoreapp2.2\ArrayDemo.deps.json
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\ArrayDemo\bin\Debug\netcoreapp2.2\ArrayDemo.runtimeconfig.json
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\ArrayDemo\bin\Debug\netcoreapp2.2\ArrayDemo.runtimeconfig.dev.json
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\ArrayDemo\bin\Debug\netcoreapp2.2\ArrayDemo.dll
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\ArrayDemo\bin\Debug\netcoreapp2.2\ArrayDemo.pdb
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\ArrayDemo\obj\Debug\netcoreapp2.2\ArrayDemo.csprojAssemblyReference.cache
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\ArrayDemo\obj\Debug\netcoreapp2.2\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\ArrayDemo\obj\Debug\netcoreapp2.2\ArrayDemo.AssemblyInfoInputs.cache
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\ArrayDemo\obj\Debug\netcoreapp2.2\ArrayDemo.AssemblyInfo.cs
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\ArrayDemo\obj\Debug\netcoreapp2.2\ArrayDemo.dll
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\ArrayDemo\obj\Debug\netcoreapp2.2\ArrayDemo.pdb

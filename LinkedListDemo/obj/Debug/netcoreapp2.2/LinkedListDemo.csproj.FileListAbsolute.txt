@@ -1,0 +1,11 @@
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\LinkedListDemo\bin\Debug\netcoreapp2.2\LinkedListDemo.deps.json
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\LinkedListDemo\bin\Debug\netcoreapp2.2\LinkedListDemo.runtimeconfig.json
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\LinkedListDemo\bin\Debug\netcoreapp2.2\LinkedListDemo.runtimeconfig.dev.json
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\LinkedListDemo\bin\Debug\netcoreapp2.2\LinkedListDemo.dll
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\LinkedListDemo\bin\Debug\netcoreapp2.2\LinkedListDemo.pdb
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\LinkedListDemo\obj\Debug\netcoreapp2.2\LinkedListDemo.csprojAssemblyReference.cache
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\LinkedListDemo\obj\Debug\netcoreapp2.2\LinkedListDemo.csproj.CoreCompileInputs.cache
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\LinkedListDemo\obj\Debug\netcoreapp2.2\LinkedListDemo.AssemblyInfoInputs.cache
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\LinkedListDemo\obj\Debug\netcoreapp2.2\LinkedListDemo.AssemblyInfo.cs
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\LinkedListDemo\obj\Debug\netcoreapp2.2\LinkedListDemo.dll
+C:\Users\imanm\source\repos\DataStructureAndAlgorithms\LinkedListDemo\obj\Debug\netcoreapp2.2\LinkedListDemo.pdb
